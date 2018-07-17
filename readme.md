@@ -7,4 +7,4 @@ Copy src/config/index-example.js to index.js and enter your oauth credentials.
 
 NPM run dev .
 
-Continue check models and continue your project.
+Check your models and continue your project.
