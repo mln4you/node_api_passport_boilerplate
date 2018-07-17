@@ -4,7 +4,7 @@ const port = process.env.PORT || 3000;
 const morgan = require('morgan');
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
-const users = require('./routes/users');
+const users = require('./src/routes/users');
 
 //connect to db
 mongoose.Promise = global.Promise;
